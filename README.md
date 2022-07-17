@@ -1,6 +1,11 @@
+# Integración de angular material a en angular 13
+
+Implementación de una tabla con paginación y ordenación. (Implementation of a table with paging and ordering.)
+
 # Tps
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+Ejemplo creado por Sebastian Marquez
 
 ## Development server
 
